@@ -1,4 +1,4 @@
-package com.example.lunkasdkexample
+package com.example.lunasdkexample
 
 import org.junit.Test
 

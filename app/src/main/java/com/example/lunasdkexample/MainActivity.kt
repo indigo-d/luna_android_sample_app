@@ -1,4 +1,4 @@
-package com.example.lunkasdkexample
+package com.example.lunasdkexample
 
 import android.os.Bundle
 import com.luna.sdk.utils.base.LocationPermissionActivity
